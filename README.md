@@ -1,6 +1,6 @@
 Impacto de la banca mexicana por covid
 
-Para iniciar con el proyecto les recomeindo bajar todos los archivos y guardarlos en la misma carperta y descomprimir los csv de las bases de cartera, los mapas y casos del covid
+Para iniciar con el proyecto les recomiendo bajar todos los archivos y guardarlos en la misma carperta y descomprimir los csv de las bases de cartera, los mapas y casos del covid
 
 Primero deben de iniciar con el el archivo de Python "Proyecto.ipynb" que contiene la mayoria de las indicaciones y contenido que se utilizó
 
