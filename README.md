@@ -48,6 +48,35 @@ Plazo: Saldo de las cuentas de plazo fijo
 Total: Saldo de los 3 tipos de cuentas (Nómina + Transaccionales + Plazo)
 
 
+CARTERA
+
+ID: Id única del registro
+
+cve_periodo: Clave única del periodo
+
+cve_estado: Clave única del estado
+
+cve_municipio: Clave única del municipio
+
+cve_institucion: Clave única del Banco
+
+Fecha: Fecha de la información
+
+Estado: Nombre del Estado
+
+Municipio: Nombre del Municipio
+
+Banco: Nombre del banco
+
+Automotriz: Saldo de la cartera de los créditos automotrices
+
+Consumo: Saldo de la cartera de los créditos de consumo
+
+Nomina: Saldo de la cartera de los créditos de Nómina
+
+Cartera: Saldo cartera de los 3 tipos de créditos (Automotriz, consumo y nómina)
+
+
 
 
 
