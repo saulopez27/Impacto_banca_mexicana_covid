@@ -16,20 +16,35 @@ La presentación del proyecto es el archivo "Impacto Bana mexicana por Covid.ppt
 
 Base Captación
 
+
 ID: Id única del registro
+
 cve_periodo: Clave única del periodo
+
 cve_institucion: Clave única del Banco
+
 cve_municipio: Clave única del municipio
+
 cve_estado: Clave única del estado
+
 Banco: Nombre del banco
+
 Municipio: Nombre del Municipio
+
 Estado: Nombre del Estado
+
 Año: Año en la que se tiene la informaicón
+
 Mes: Mes en la que se tiene la infromaicón
+
 Fecha: Fecha de la información
+
 Nomina: Saldo de las cuentas de nómina
+
 Transaccionales: Saldo de las cuentas transaccionales
+
 Plazo: Saldo de las cuentas de plazo fijo
+
 Total: Saldo de los 3 tipos de cuentas (Nómina + Transaccionales + Plazo)
 
 
